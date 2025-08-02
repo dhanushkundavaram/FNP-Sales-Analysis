@@ -78,14 +78,6 @@ Majority of revenue generated between **10 AM - 8 PM**, indicating preferred cus
 ✅ Dashboard & Visualization Design  
 ✅ Business Analysis and Storytelling
 
----
-
-## 📎 How to Use
-
-1. Download the Excel file (`FNP_Sales_Analysis.xlsx`) from this repository.
-2. Open it with Excel (Excel 2016 or later recommended).
-3. Use the slicers to filter by date ranges or occasions.
-4. Explore the dynamic charts, KPIs, and tables to gain insights.
 
 ---
 
