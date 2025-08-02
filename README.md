@@ -101,7 +101,7 @@ Majority of revenue generated between **10 AM - 8 PM**, indicating preferred cus
 
 
 ### 📈 Full Dashboard View
-![FNP Sales Dashboard](./screenshots/FNP_Sales_Dashboard.png)
+![FNP Sales Dashboard](https://github.com/dhanushkundavaram/FNP-Sales-Analysis/blob/main/FNP%20Sales%20Dashboard.png)
 
 ---
 
