@@ -108,7 +108,7 @@ The dataset includes three tables:
 
 ## 📝 Project Motivation
 
-This project was inspired by the need to build hands-on Excel-based dashboards to analyze real-world business problems, enhance my data analysis skills, and demonstrate capabilities to potential employers.
+This project was inspired by the need to build hands-on Excel-based dashboards to analyze real-world business problems, enhance my data analysis skills.
 
 ---
 
